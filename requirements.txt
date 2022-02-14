@@ -1,3 +1,3 @@
-cryptography==3.4.2
+cryptography
 httpx[http2]==0.18.1
 PyJWT==2.0.1

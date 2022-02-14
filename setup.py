@@ -17,7 +17,7 @@ setup(
   ],
   classifiers = [],
   install_requires=[
-    'cryptography<=3.3.2',
+    'cryptography',
     'httpx[http2]',
     'pyjwt',
   ],
